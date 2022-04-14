@@ -1,5 +1,5 @@
 ### Olá! Eu sou Gustavo Menezes
-Estudante Análise de Sistemas | EaD Unicesumar
+Estudante Análise e Desenvolvimento de Sistemas | EaD Unicesumar
 
 <div align="center">
   <a href="https://github.com/gustavoacmenezes89">
