@@ -1,12 +1,6 @@
 ## Olá! Eu sou Gustavo Menezes.
 **Estudante Análise e Desenvolvimento de Sistemas | EaD Unicesumar**
 
-<div align="center">
-  <a href="https://github.com/gustavoacmenezes89">
-   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoacmenezes89&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img width="400em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoacmenezes89&layout=compact&langs_count=7&theme=merko"/>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://www.rw-designer.com/icon-image/18638-256x256x32.png"> 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gmz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gmz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
